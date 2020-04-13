@@ -1,5 +1,5 @@
-data/timeseries.csv
-data/full_history.csv
+ETL/data/timeseries.csv
+ETL/data/full_history.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
